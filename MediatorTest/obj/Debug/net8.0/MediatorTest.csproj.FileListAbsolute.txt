@@ -105,3 +105,4 @@
 /Users/thinhtran/Documents/review-NET8/MediatorTest/obj/Debug/net8.0/MediatorTest.pdb
 /Users/thinhtran/Documents/review-NET8/MediatorTest/obj/Debug/net8.0/MediatorTest.genruntimeconfig.cache
 /Users/thinhtran/Documents/review-NET8/MediatorTest/obj/Debug/net8.0/ref/MediatorTest.dll
+/Users/thinhtran/Documents/review-NET8/MediatorTest/obj/Debug/net8.0/MediatorTest.sourcelink.json
